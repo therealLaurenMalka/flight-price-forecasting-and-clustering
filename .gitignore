@@ -171,3 +171,7 @@ cython_debug/
 .pypirc
 /scraper/cookies/*
 /scraper/sessions/*
+
+*_BACKUP.ipynb
+kiwi_Modeling_back.ipynb
+
