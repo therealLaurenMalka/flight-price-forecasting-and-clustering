@@ -175,3 +175,5 @@ cython_debug/
 *_BACKUP.ipynb
 kiwi_Modeling_back.ipynb
 
+catboost_info/
+*.tfevents.*
